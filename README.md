@@ -1,6 +1,6 @@
 # Mediadown
 
-_Please read the medium [developer agreement](https://github.com/Medium/medium-api-docs#developer-agreement) for using their API._
+_Please read the [medium developer agreement](https://github.com/Medium/medium-api-docs#developer-agreement) for using their API._
 
 Write markdown and get a nice Medium Blog Post in return!
 
