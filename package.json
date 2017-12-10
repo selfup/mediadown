@@ -1,0 +1,19 @@
+{
+  "name": "mediadown",
+  "version": "1.0.0",
+  "description": "A way to write Markdown and post Medium articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "medium",
+    "blog",
+    "blogs",
+    "markdown",
+    "gist",
+    "gists"
+  ],
+  "author": "Regis Boudinot (selfup)",
+  "license": "MIT"
+}
